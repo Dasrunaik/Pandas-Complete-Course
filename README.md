@@ -29,17 +29,25 @@ Pandas is a powerful Python library for data manipulation and analysis. This cou
 📥 Installation
 Make sure you have Python installed. Install Pandas using:
 
+
 bash
+
 Copy
+
 Edit
+
 pip install pandas
+
 Or, if using Anaconda:
+
 
 bash
 Copy
 Edit
 conda install pandas
+
 📚 Course Modules
+
 📌 1. Getting Started
 Introduction to Pandas
 
