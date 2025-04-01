@@ -8,14 +8,23 @@ Pandas is a powerful Python library for data manipulation and analysis. This cou
 🔹 What You’ll Learn:
 
 ✅ Pandas Series & DataFrames
+
 ✅ Data Import & Export
+
 ✅ Data Cleaning & Manipulation
+
 ✅ Filtering, Sorting & Aggregation
+
 ✅ Merging & Joining Data
+
 ✅ Working with Missing Data
+
 ✅ GroupBy & Pivot Tables
+
 ✅ Time Series Analysis
+
 ✅ Performance Optimization
+
 
 📥 Installation
 Make sure you have Python installed. Install Pandas using:
