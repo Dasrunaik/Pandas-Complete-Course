@@ -102,12 +102,18 @@ Using vectorized operations
 
 Optimizing memory usage
 
+
 Working with large datasets
 
+
 📖 Resources & References
+
 📌 Pandas Documentation: https://pandas.pydata.org/docs/
+
 📌 Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
 📌 Kaggle Datasets: https://www.kaggle.com/datasets
+
 
 🚀 How to Use This Course?
 🔹 Follow the modules step by step
