@@ -1,2 +1,2 @@
-# EDA-using-Pandas-in-python
+# PANDAS in Python
 Data cleaning  and ploting using python in EDA
